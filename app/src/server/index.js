@@ -12,6 +12,7 @@ server.listen(PORT, error => {
     if (error) {
         return console.log(error);
     }
+    
 
     console.log("🚀 Server started on port " + PORT);
 

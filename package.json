@@ -8,5 +8,21 @@
   },
   "devDependencies": {
     "cypress": "^9.7.0"
+  },
+  "description": "A backbone for your coding challenge.",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasir-Rafique/Alva-API-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasir-Rafique/Alva-API-Test/issues"
+  },
+  "homepage": "https://github.com/Yasir-Rafique/Alva-API-Test#readme",
+  "dependencies": {
+    "node-cache": "^5.1.2",
+    "uuid": "^9.0.0"
   }
 }
