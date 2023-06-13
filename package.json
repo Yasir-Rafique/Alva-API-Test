@@ -1,0 +1,12 @@
+{
+  "name": "backend-boilerplate",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd app && npm run build",
+    "start": "cd app && npm run start",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
